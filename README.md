@@ -21,4 +21,4 @@
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/</a>  
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mertuzel&show_icons=true&locale=en&theme=tokyonight" alt="mertuzel" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mertuzel&count_private=true&show_icons=true&locale=en&theme=tokyonight" alt="mertuzel" /></p>
